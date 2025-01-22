@@ -11,7 +11,7 @@ world changes? What if timely exhibit offerings could be not just efficiently
 produced, but accessible and welcoming to all visitors? This vision of 
 efficiency and accessibility is at the center of FAST.
 
-For more of an introduction and explanation of the FAST project, please see: [FAST Booklet](https://mos.widen.net/s/gkftj8tgl8/fast_booklet)
+For a more detailed introduction and explanation of the FAST project, please see: [FAST Booklet](https://mos.widen.net/s/gkftj8tgl8/fast_booklet)
 
 ### Notice
 
