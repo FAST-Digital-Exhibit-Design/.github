@@ -13,6 +13,16 @@ efficiency and accessibility is at the center of FAST.
 
 For more of an introduction and explanation of the FAST project, please see: [FAST Booklet](https://mos.widen.net/s/gkftj8tgl8/fast_booklet)
 
+### Notice
+
+Copyright (C) 2024 Museum of Science, Boston
+<https://www.mos.org/>
+
+This software was developed through a grant to the Museum of Science, 
+Boston from the Institute of Museum and Library Services under Award 
+#MG-249646-OMS-21. For more information about this grant, see 
+<https://www.imls.gov/grants/awarded/mg-249646-oms-21>.
+
 ## What is the FAST SDK?
 The FAST SDK consists of three parts:
 1. A Unity Package that addresses the following software functionality when developing exhibits:
@@ -39,7 +49,7 @@ Use the pinned respositories or links below:
     * [Developer Guide](https://github.com/FAST-Digital-Exhibit-Design/FAST-SDK/wiki)
     * [Coding Reference](https://FAST-Digital-Exhibit-Design.github.io/FAST-SDK-Documentation/)
 * [FAST Exhibit Templates](https://github.com/FAST-Digital-Exhibit-Design/FAST-Exhibit-Templates)
-    1. [FAST Object Investigation](https://github.com/FAST-Digital-Exhibit-Design/FAST-Exhibit-Templates/tree/main/FAST%20Object%20Investigation)
-    2. [FAST Quiz Show](https://github.com/FAST-Digital-Exhibit-Design/FAST-Exhibit-Templates/tree/main/FAST%20Quiz%20Show)
-    3. [FAST Node Exploration](https://github.com/FAST-Digital-Exhibit-Design/FAST-Exhibit-Templates/tree/main/FAST%20Node%20Exploration)
+    * [FAST Object Investigation](https://github.com/FAST-Digital-Exhibit-Design/FAST-Exhibit-Templates/tree/main/FAST%20Object%20Investigation)
+    * [FAST Quiz Show](https://github.com/FAST-Digital-Exhibit-Design/FAST-Exhibit-Templates/tree/main/FAST%20Quiz%20Show)
+    * [FAST Node Exploration](https://github.com/FAST-Digital-Exhibit-Design/FAST-Exhibit-Templates/tree/main/FAST%20Node%20Exploration)
 * [FAST Computer Vision](https://github.com/FAST-Digital-Exhibit-Design/FAST-Computer-Vision)
